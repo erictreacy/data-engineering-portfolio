@@ -1,0 +1,7 @@
+pandas
+numpy
+sqlalchemy
+pyspark
+apache-airflow
+requests
+psycopg2
